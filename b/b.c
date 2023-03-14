@@ -4,6 +4,10 @@
 int main(int argc, char* argv[]) {
 	int a;
 	int b;
+
+	float f = 0.1f;
+	double d = 0.2;
+
 	scanf("%d", &a);
 	scanf("%d", &b);
 
