@@ -9,5 +9,6 @@ int main(int argc, char* argv[]) {
 	scanf("%d", &age);
 	printf("You are looking younger! "
 		"I thought you are %d!\n", age);
+
 	return 0;
 }
