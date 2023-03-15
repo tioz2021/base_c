@@ -4,10 +4,7 @@ int findMin(int a, int b, int c);
 
 int main(int argc, char* argv[])
 {
-    int a, b, c;
-    scanf("%d%d%d", &a, &b, &c);
-
-    int r = findMin(a, b, c);
+    int r = findMin(20, 30, 50);
     return r;
 }
 
