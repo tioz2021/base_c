@@ -1,6 +1,7 @@
 .vscode/
 *.o
 *.exe
+*.out
 test.c
 test.exe
 test.txt
